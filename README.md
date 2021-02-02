@@ -11,6 +11,6 @@ http ==> https
   3. `pip3 install requests`
   3. `python3 tracker_http_to_https.py`
 
-* Aadvanced usage  
+* Advanced usage  
   * You can fill in your own keyword on line 61  
   * Add filter on line 57
