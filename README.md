@@ -3,7 +3,7 @@ Some useful qBittorrent automation scripts
 
 ## tracker_http_to_https.py
 This script can help you add a "s" to http  
-http ==> https
+http --> https
 
 ### How to use
   1. Enable WebUI in qBittorrent  
@@ -12,5 +12,5 @@ http ==> https
   3. `python3 tracker_http_to_https.py`
 
 ### Advanced usage  
-  * You can fill in your own keyword on line 61  
+  * Fill in your own keyword on line 61  
   * Add filter on line 57
